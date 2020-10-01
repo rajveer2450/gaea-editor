@@ -7,7 +7,7 @@
 /.nyc_output
 /npm-debug.log
 /tests
-/.idea
+/.ideas
 /package-lock.json
 /packages
 /yarn.lock
